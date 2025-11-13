@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Estudante de Informática no IFRN<br>- Full Stack (por enquanto)<br>- Estudando Java ☕</p>
+<p align="left">- Estudante de Informática no IFRN<br></p>
 
 ###
 
