@@ -1,4 +1,4 @@
-<h1 align="left">Caio Samuel - Estudent Developer</h1>
+<h1 align="left">Caio Samuel - Student Developer</h1>
 
 ###
 
