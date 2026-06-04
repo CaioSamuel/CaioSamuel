@@ -13,17 +13,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo" />
 </div>
@@ -34,7 +26,7 @@
 
 ###
 
-<p align="left">Sou um Estudante de Informática no IFRN, futuro Desenvolvedor Full Stack, que está sempre buscando aprender cada vez mais. Atualmente focado em desenvolvimento web com Python/Django e React, criando projetos reais para evoluir na prática.</p>
+<p align="left">Estudante de Informática no IFRN com foco em desenvolvimento Backend. Trabalho principalmente com Python e Django, construindo projetos práticos para evoluir como desenvolvedor. Sempre buscando aprender mais e desenvolver soluções reais.</p>
 
 ###
 
@@ -60,7 +52,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:samuel451200@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img width="8" />
