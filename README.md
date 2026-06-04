@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img width="8" />
-  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+  <a href="https://linkedin.com/in/caio-samuel-784b36378">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
