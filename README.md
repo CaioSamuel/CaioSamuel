@@ -43,14 +43,14 @@
 ###
 
 <div align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CaioSamuel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioSamuel&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CaioSamuel&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CaioSamuel&theme=tokyonight" />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=CaioSamuel&theme=tokyonight&hide_border=true&locale=pt_BR" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CaioSamuel&theme=tokyonight" />
 </div>
 
 ###
@@ -60,7 +60,7 @@
 ###
 
 <div align="left">
-  <a href="mailto:samuel451200@gmail.com">
+  <a href="mailto:SEU_EMAIL_AQUI">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img width="8" />
